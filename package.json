@@ -2,6 +2,7 @@
   "name": "tesla-clone",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://brunolagoa.github.io/tesla-clone/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -18,6 +19,7 @@
     "typescript": "~3.7.2"
   },
   "scripts": {
+    "deploy": "yarn build && ./node_modules/.bin/gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -39,6 +41,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.3"
+    "@types/styled-components": "^5.1.3",
+    "gh-pages": "^3.1.0"
   }
 }
