@@ -65,6 +65,11 @@ $ yarn start
     <img alt="Desktop" title="#Desktop" src="images/../src/imagens/layout.gif" width="680px" />
 </div>
 
+<br/><br/>
+
+<p>Site publicado em:</p>
+<a alt="Bruno Castro" target="_blank" rel="noopener noreferrer" href="https://brunolagoa.github.io/tesla-clone/">Clique aqui para visualizar</a>
+
 ---
 
 
@@ -75,14 +80,14 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h3 align="center">
-Autor: <a alt="Bruno Castro" href="https://brunocastro.dev">Bruno Castro</a>
+Autor: <a alt="Bruno Castro" target="_blank" rel="noopener noreferrer" href="https://brunocastro.dev">Bruno Castro</a>
 </h3>
 
 <p align="center">
 
-  <a alt="Bruno Castro Linkedin" href="https://www.linkedin.com/in/brunovcastro">
+  <a alt="Bruno Castro Linkedin" rel="noopener noreferrer" href="https://www.linkedin.com/in/brunovcastro">
     <img src="https://img.shields.io/badge/LinkedIn-Bruno%20Castro-blue?logo=linkedin"/></a>
-  <a alt="Bruno Castro GitHub" href="https://github.com/brunolagoa">
+  <a alt="Bruno Castro GitHub" rel="noopener noreferrer" href="https://github.com/brunolagoa">
   <img src="https://img.shields.io/badge/GitHub-Bruno%20Castro-lightgrey?logo=github"/></a>
 
 </p>
